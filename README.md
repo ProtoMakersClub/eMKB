@@ -1,2 +1,2 @@
 # eMKB
-electric trolley with standard modular platform
+electric trolley modular platform constructed with aluminum profile.
